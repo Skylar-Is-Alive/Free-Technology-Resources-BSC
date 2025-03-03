@@ -136,7 +136,7 @@
 
 - [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - CHECK LIST OF LINKS FOR THE ACTUAL SITE: File sharing website for books, scholarly journals
 
-- [Lucida](https://lucida.su/) - Download music from various streaming platforms in high-quality
+- [Lucida](https://lucida.su/) - Download music from various streaming platforms in high-quality with metadata included
 
 - [Open Library](https://openlibrary.org/) - Digital library connected to the Internet Archive
 

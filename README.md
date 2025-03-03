@@ -82,7 +82,9 @@
 #### Utilities
 
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic/releases) - Volume mixer but for mac (can't be used with eqMac to my knowledge)
-- [eqMac](https://eqmac.app/) - Systemwide EQ for different speakers and headphones. Find EQ curves at [AutoEq](https://www.autoeq.app/)
+- [eqMac](https://eqmac.app/) - MAC ONLY: Systemwide EQ for different speakers and headphones. Find EQ curves at [AutoEq](https://www.autoeq.app/)
+- [APO Equalizer](https://equalizerapo.com/download.html) - WINDOWS ONLY: Systemwide EQ for different speakers and headphones. Find EQ curves at [AutoEq](https://www.autoeq.app/)
+- [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) - Interface extension for APO Equalizer
 
 ### Text Editors
 

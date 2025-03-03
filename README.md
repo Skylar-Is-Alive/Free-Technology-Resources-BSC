@@ -1,3 +1,4 @@
+[Let me know](https://github.com/Skylar-Is-Alive/Tech-Tools/issues) if there are any tools that are free and useful and I'll see if I agree!
 # Tech-Tools
 ## Programs
 
@@ -89,3 +90,27 @@
 - [GIMP](https://www.gimp.org/downloads/) - Photo and raster editor
 - [Inkscape](https://inkscape.org/release/) - Vector graphics editor
 - [krita](https://krita.org/en/download/) - Digital art software
+
+## Websites
+
+### Books
+
+#### Library Card Online
+
+https://www.hoopladigital.com/
+
+https://libbyapp.com/
+
+#### Others
+
+https://libgen.is/
+
+https://openlibrary.org/
+
+https://z-library.sk/
+
+### Music Download
+
+https://www.freegalmusic.com/
+
+https://lucida.su/

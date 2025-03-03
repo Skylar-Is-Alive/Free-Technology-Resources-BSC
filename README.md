@@ -30,8 +30,9 @@
 #### Players and Libraries
 
 - [Amethyst](https://github.com/Geoxor/Amethyst/releases/) - An experimental player that is more interesting than anything
-- [Musicat](https://github.com/basharovV/musicat/releases) - Comprehensive player with some slight glitches. Allows you to tag music and create smart playlists
+- [Musicat](https://github.com/basharovV/musicat/releases) - CAN'T EDIT WAV METADATA: Allows you to tag music and create smart playlists, but has slight annoyances
 - [VLC](https://www.videolan.org/vlc/) - Plays almost every file format
+- [Winamp](https://www.winamp.com/downloads/) - WINDOWS ONLY: Really good audio player. Use the Big Bento theme for the best view
 
 #### Plugins
 

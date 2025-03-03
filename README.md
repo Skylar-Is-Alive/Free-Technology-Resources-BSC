@@ -134,7 +134,7 @@
 
 - [Internet Archive](https://archive.org/) - Various archived media which is mostly old
 
-- [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - CHECK LIST OF LINKS FOR THE ACTUAL SITE: File sharing website for books, scholarly journals
+- [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - CHECK LIST OF LINKS FOR THE ACTUAL SITE: File sharing website for books, journals etc.
 
 - [Lucida](https://lucida.su/) - Download music from various streaming platforms in high-quality with metadata included
 

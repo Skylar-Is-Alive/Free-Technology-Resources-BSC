@@ -71,7 +71,7 @@
 
 ##### Sampled Instruments
 
-- [https://www.decentsamples.com/product/decent-sampler-plugin/](https://www.decentsamples.com/product/decent-sampler-plugin/) - Sampler to use with [pianobook website](https://www.pianobook.co.uk/sampler/decent-sampler/)
+- [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/) - Sampler to use with [pianobook website](https://www.pianobook.co.uk/sampler/decent-sampler/)
 - [LABS](https://labs.spitfireaudio.com/free-now) - A lot of mixing with paid packs, but still good
 
 #### Sample Managers

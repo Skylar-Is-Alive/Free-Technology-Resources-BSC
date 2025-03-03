@@ -30,7 +30,7 @@
 #### Players and Libraries
 
 - [Amethyst](https://github.com/Geoxor/Amethyst/releases/) - An experimental player that is more interesting than anything
-- [Musicat](https://github.com/basharovV/musicat/releases) - CAN'T EDIT WAV METADATA: Allows you to tag music and create smart playlists, but has slight annoyances
+- [Musicat](https://github.com/basharovV/musicat/releases) - CAN'T EDIT WAV METADATA: Allows you to tag music and create smart playlists - has slight annoyances
 - [VLC](https://www.videolan.org/vlc/) - Plays almost every file format
 - [Winamp](https://www.winamp.com/downloads/) - WINDOWS ONLY: Really good audio player. Use the Big Bento theme for the best view
 
@@ -124,23 +124,23 @@
 
 #### Digital Library Card Resources
 
-[Hoopla](https://www.hoopladigital.com/) - Check out books, audiobooks, and movies immediately
+- [Hoopla](https://www.hoopladigital.com/) - Check out books, audiobooks, and movies immediately
 
-[Libby](https://libbyapp.com/) - THERE IS A HOLD TIME: Check out books and audiobooks
+- [Libby](https://libbyapp.com/) - THERE IS A HOLD TIME: Check out books and audiobooks
 
-[Freegal Music]([url](https://www.freegalmusic.com/) - Legally download a couple tracks a week
+- [Freegal Music]([url](https://www.freegalmusic.com/) - Legally download a couple tracks a week
 
 #### Free Resources
 
-[Internet Archive](https://archive.org/) - Various archived media which is mostly old
+- [Internet Archive](https://archive.org/) - Various archived media which is mostly old
 
-[Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - CHECK LIST OF LINKS FOR THE ACTUAL SITE: File sharing website for books, scholarly journals
+- [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - CHECK LIST OF LINKS FOR THE ACTUAL SITE: File sharing website for books, scholarly journals
 
-[Lucida](https://lucida.su/) - Download music from various streaming platforms in high-quality
+- [Lucida](https://lucida.su/) - Download music from various streaming platforms in high-quality
 
-[Open Library](https://openlibrary.org/) - Digital library connected to the Internet Archive
+- [Open Library](https://openlibrary.org/) - Digital library connected to the Internet Archive
 
-[Z Library](https://z-library.sk/) - Similar to Library Genesis but with a different selection and more modern interface
+- [Z Library](https://z-library.sk/) - Similar to Library Genesis but with a different selection and more modern interface
 
 ### Utility
 

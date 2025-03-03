@@ -110,6 +110,7 @@
 - [Statcher](https://stacher.io/) - Download youtube videos, playlists, and channels with options of automating downloads
 - [VLC](https://www.videolan.org/vlc/) - Plays almost every file format
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#installation) - Command line youtube downloader (alternatively use Stacher for a GUI)
+- [TouchDesigner](https://derivative.ca/product/touchdesigner-non-commercial/77) - Live multi-media node-based editor
 
 ### Visual Art
 

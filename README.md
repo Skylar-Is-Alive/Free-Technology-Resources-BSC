@@ -128,7 +128,7 @@
 
 - [Libby](https://libbyapp.com/) - THERE IS A HOLD TIME: Check out books and audiobooks
 
-- [Freegal Music]([url](https://www.freegalmusic.com/) - Legally download a couple tracks a week
+- [Freegal Music](https://www.freegalmusic.com/) - Legally download a couple tracks a week
 
 #### Free Resources
 

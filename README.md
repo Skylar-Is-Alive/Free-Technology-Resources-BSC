@@ -115,6 +115,7 @@
 ### Visual Art
 
 - [Blender](https://www.blender.org/download/) - 3D graphics software
+- [FreeCAD](https://www.freecad.org/downloads.php) - CAD software
 - [GIMP](https://www.gimp.org/downloads/) - Photo and raster editor
 - [Inkscape](https://inkscape.org/release/) - Vector graphics editor
 - [krita](https://krita.org/en/download/) - Digital art software

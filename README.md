@@ -71,7 +71,7 @@
 
 ##### Sampled Instruments
 
-- [https://www.decentsamples.com/product/decent-sampler-plugin/](https://www.decentsamples.com/product/decent-sampler-plugin/) - Sampler for use with the [pianobook website](https://www.pianobook.co.uk/sampler/decent-sampler/)
+- [https://www.decentsamples.com/product/decent-sampler-plugin/](https://www.decentsamples.com/product/decent-sampler-plugin/) - Sampler to use with [pianobook website](https://www.pianobook.co.uk/sampler/decent-sampler/)
 - [LABS](https://labs.spitfireaudio.com/free-now) - A lot of mixing with paid packs, but still good
 
 #### Sample Managers
@@ -125,25 +125,18 @@
 #### Digital Library Card Resources
 
 - [Hoopla](https://www.hoopladigital.com/) - Check out books, audiobooks, and movies immediately
-
 - [Libby](https://libbyapp.com/) - THERE IS A HOLD TIME: Check out books and audiobooks
-
 - [Freegal Music](https://www.freegalmusic.com/) - Legally download a couple tracks a week
 
 #### Free Resources
 
 - [Internet Archive](https://archive.org/) - Various archived media which is mostly old
-
 - [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - CHECK LIST OF LINKS FOR THE ACTUAL SITE: File sharing website for books, journals etc.
-
 - [Lucida](https://lucida.su/) - Download music from various streaming platforms in high-quality with metadata included
-
 - [Open Library](https://openlibrary.org/) - Digital library connected to the Internet Archive
-
 - [Z Library](https://z-library.sk/) - Similar to Library Genesis but with a different selection and more modern interface
 
 ### Utility
 
 - [Mega](https://mega.io/storage) - Free 20 gb cloud storage
-
 - [Wayback Machine](https://webcf.waybackmachine.org/) - Find previous versions of websites

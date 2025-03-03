@@ -20,6 +20,39 @@
 
 #### Plugins
 
+##### Collections
+- [FREAKSHOW INDUSTRIES](https://freakshowindustries.com/) - GIVE MONEY IF POSSIBLE, THEY'RE COOL: Freaky destructive effects
+- [Green Oak Software](https://greenoak.com/effects/) - Beautifully designed delay and chorus plugins
+- [iZotope](https://www.izotope.com/en/products/free-audio-plug-ins.html) - Combination of utility and effect plugins
+- [NIH-plug](https://github.com/robbert-vdh/nih-plug/tree/master?tab=readme-ov-file#plugins) - TAKES A BIT OF COMMAND LINE KNOWLEDGE TO SET UP: Utilitarian nerdy plugins
+- [Native Instruments](https://www.native-instruments.com/en/catalog/free/) - Combination of good and mid products
+- [Valhalla](https://valhalladsp.com/demos-downloads/) - SCROLL TO BOTTOM OF PAGE: Time based effects
+
+##### Effect
+- [Fracture](https://glitchmachines.com/products/fracture/) - Buffering robotic artifacts
+- [Hysteresis](https://glitchmachines.com/products/hysteresis/) - Glitchy delay with robotic artifacts
+- [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) - Mastering compressor
+- [TDR Nova](https://www.tokyodawn.net/tdr-nova/) - Dynamic EQ
+
+##### Utility
+- [Analog Obsession](https://www.patreon.com/analogobsession) - Analog modeled effects
+- [Melda Production](https://www.meldaproduction.com/downloads) - Effect and utility bundle
+- [Youlean Loudness Meter 2](https://youlean.co/download-youlean-loudness-meter/) - Find the perceived loudness of your track
+
+##### Synth
+- [Dexed](https://asb2m10.github.io/dexed/) - FM synth modeled after the Yamaha DX7
+- [kHz ONE](https://kilohearts.com/docs/download_and_installation#khs_one) - ONLY 32 BIT WON'T WORK ON WINDOWS ABLETON 11+: Analogue style subtractive synth
+- [Odin 2](https://thewavewarden.com/pages/odin-2) - Easy to understand routing and modulation
+- [Pendulate](https://www.newfangledaudio.com/pendulate) - Monophonic chaos
+- [Surge XT](https://surge-synthesizer.github.io/) - Hypbrid synth
+- [Vital](https://vital.audio/#getvital) - Similar to Serum
+- [Waverazor LE](https://www.tracktion.com/products/waverazor) - MAKE SURE TO GET THE LE VERSION: Wavetable synth
+- [Zyklop](https://www.tracktion.com/products/zyklop) - Sample-based re-synthesis
+
+##### Sampled Instruments
+- [https://www.decentsamples.com/product/decent-sampler-plugin/](https://www.decentsamples.com/product/decent-sampler-plugin/) - Sampler for use with the [pianobook website](https://www.pianobook.co.uk/sampler/decent-sampler/)
+- [LABS](https://labs.spitfireaudio.com/free-now) - A lot of mixing with paid packs, but still good
+
 #### Sample Managers
 - [ADSR Sample Manager](https://www.adsrsounds.com/product/software/adsr-sample-manager/) - Best free sample manager for mac in my opinion despite being not that great
 - [Resonic Player](https://resonic.at/download) - WINDOWS ONLY: The free version does everything I need it to

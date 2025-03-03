@@ -82,7 +82,7 @@
 #### Utilities
 
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic/releases) - Volume mixer but for mac (can't be used with eqMac to my knowledge)
-- [eqMac](https://eqmac.app/) - Systemwide eq for different speakers and headphones
+- [eqMac](https://eqmac.app/) - Systemwide EQ for different speakers and headphones. Find EQ curves at [AutoEq](https://www.autoeq.app/)
 
 ### Text Editors
 

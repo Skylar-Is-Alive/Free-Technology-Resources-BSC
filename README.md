@@ -49,13 +49,13 @@
 
 - [Fracture](https://glitchmachines.com/products/fracture/) - Buffering robotic artifacts
 - [Hysteresis](https://glitchmachines.com/products/hysteresis/) - Glitchy delay with robotic artifacts
-- [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) - Mastering compressor
-- [TDR Nova](https://www.tokyodawn.net/tdr-nova/) - Dynamic EQ
 
 ##### Utility
 
 - [Analog Obsession](https://www.patreon.com/analogobsession) - Analog modeled effects
 - [Melda Production](https://www.meldaproduction.com/downloads) - Effect and utility bundle
+- [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) - Mastering compressor
+- [TDR Nova](https://www.tokyodawn.net/tdr-nova/) - Dynamic EQ
 - [Youlean Loudness Meter 2](https://youlean.co/download-youlean-loudness-meter/) - Find the perceived loudness of your track
 
 ##### Synth
@@ -96,6 +96,7 @@
 - [balenaEtcher](https://etcher.balena.io/) - Useful tool if you're wanting to run linux off of flash drives
 - [DNSSwitcher](http://mattmcneeney.github.io/DNSSwitcher/) - TALK TO ME FIRST: Quickly change your DNS for faster and more secure web performance
 - [Proton VPN](https://protonvpn.com/download) - DO NOT USE IF YOU'RE CONCERNED ABOUT DATA/PRIVACY OR ARE TORRENTING: It's a free VPN that sells your data
+- [Skim](https://skim-app.sourceforge.io/) - A pdf viewer with dark mode and adjustable no-touch scrolling
 - [Syncthing](https://syncthing.net/downloads/) - Automated syncing of folders over wifi with ignore commands and one way file alteration
 - [The Unarchiver](https://theunarchiver.com/) - Used to unzip file types like RAR
 - [Thunderbird](https://www.thunderbird.net/en-GB/thunderbird/all/) - Combine all your emails into one customisable place
@@ -119,24 +120,30 @@
 
 ## Websites
 
-### Books
+### Media Resources
 
-#### Library Card Online
+#### Digital Library Card Resources
 
-https://www.hoopladigital.com/
+[Hoopla](https://www.hoopladigital.com/) - Check out books, audiobooks, and movies immediately
 
-https://libbyapp.com/
+[Libby](https://libbyapp.com/) - THERE IS A HOLD TIME: Check out books and audiobooks
 
-#### Others
+[Freegal Music]([url](https://www.freegalmusic.com/) - Legally download a couple tracks a week
 
-https://libgen.is/
+#### Free Resources
 
-https://openlibrary.org/
+[Internet Archive](https://archive.org/) - Various archived media which is mostly old
 
-https://z-library.sk/
+[Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - CHECK LIST OF LINKS FOR THE ACTUAL SITE: File sharing website for books, scholarly journals
 
-### Music Download
+[Lucida](https://lucida.su/) - Download music from various streaming platforms in high-quality
 
-https://www.freegalmusic.com/
+[Open Library](https://openlibrary.org/) - Digital library connected to the Internet Archive
 
-https://lucida.su/
+[Z Library](https://z-library.sk/) - Similar to Library Genesis but with a different selection and more modern interface
+
+### Utility
+
+- [Mega](https://mega.io/storage) - Free 20 gb cloud storage
+
+- [Wayback Machine](https://webcf.waybackmachine.org/) - Find previous versions of websites

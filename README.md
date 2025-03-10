@@ -97,6 +97,7 @@
 - [AlDente](https://apphousekitchen.com/) - Control battery percentage to extend its life. Idealy have your battery between 40-80% at all times
 - [balenaEtcher](https://etcher.balena.io/) - Useful tool if you're wanting to run linux off of flash drives
 - [DNSSwitcher](http://mattmcneeney.github.io/DNSSwitcher/) - TALK TO ME FIRST: Quickly change your DNS for faster and more secure web performance
+- [FFmpeg](https://ffmpeg.org/) - COMMAND LINE TOOL: Convert audio and video
 - [Kegworks](https://github.com/Kegworks-App/Kegworks) - REQUIRES COMMAND LINE TO INSTALL: Package windows programs into a mac application
 - [Proton VPN](https://protonvpn.com/download) - DO NOT USE IF YOU'RE CONCERNED ABOUT DATA/PRIVACY OR ARE TORRENTING: It's a free VPN that sells your data
 - [Skim](https://skim-app.sourceforge.io/) - A pdf viewer with dark mode and adjustable no-touch scrolling

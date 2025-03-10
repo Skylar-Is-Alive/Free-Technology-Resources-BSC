@@ -41,7 +41,7 @@
 - [FREAKSHOW INDUSTRIES](https://freakshowindustries.com/) - GIVE MONEY IF POSSIBLE, THEY'RE COOL: Freaky destructive effects
 - [Green Oak Software](https://greenoak.com/effects/) - Beautifully designed delay and chorus plugins
 - [iZotope](https://www.izotope.com/en/products/free-audio-plug-ins.html) - Combination of utility and effect plugins
-- [NIH-plug](https://github.com/robbert-vdh/nih-plug/tree/master?tab=readme-ov-file#plugins) - TAKES A BIT OF COMMAND LINE KNOWLEDGE TO SET UP: Utilitarian nerdy plugins
+- [NIH-plug](https://github.com/robbert-vdh/nih-plug/tree/master?tab=readme-ov-file#plugins) - Utilitarian style nerdy plugins
 - [Native Instruments](https://www.native-instruments.com/en/catalog/free/) - Combination of good and mid products
 - [Valhalla](https://valhalladsp.com/demos-downloads/) - SCROLL TO BOTTOM OF PAGE: Time based effects
 
@@ -97,6 +97,7 @@
 - [AlDente](https://apphousekitchen.com/) - Control battery percentage to extend its life. Idealy have your battery between 40-80% at all times
 - [balenaEtcher](https://etcher.balena.io/) - Useful tool if you're wanting to run linux off of flash drives
 - [DNSSwitcher](http://mattmcneeney.github.io/DNSSwitcher/) - TALK TO ME FIRST: Quickly change your DNS for faster and more secure web performance
+- [Kegworks](https://github.com/Kegworks-App/Kegworks) - REQUIRES COMMAND LINE TO INSTALL: Package windows programs into a mac application
 - [Proton VPN](https://protonvpn.com/download) - DO NOT USE IF YOU'RE CONCERNED ABOUT DATA/PRIVACY OR ARE TORRENTING: It's a free VPN that sells your data
 - [Skim](https://skim-app.sourceforge.io/) - A pdf viewer with dark mode and adjustable no-touch scrolling
 - [Syncthing](https://syncthing.net/downloads/) - Automated syncing of folders over wifi with ignore commands and one way file alteration

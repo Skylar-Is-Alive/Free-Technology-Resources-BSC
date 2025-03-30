@@ -144,6 +144,7 @@
 - [Lucida](https://lucida.su/) - Download music from various streaming platforms in high-quality with metadata included
 - [MovieOrca](https://www2.movieorca.com/) - UBLOCK ORIGIN HIGHLY RECOMMENDED - Stream movies and TV shows
 - [Open Library](https://openlibrary.org/) - Digital library connected to the Internet Archive
+- [SquidWTF](https://squid.wtf/) - Download music from various streaming platforms in high-quality with metadata included
 - [Z Library](https://z-library.sk/) - Similar to Library Genesis but with a different selection and more modern interface
 
 ### Utility

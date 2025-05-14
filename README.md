@@ -17,7 +17,16 @@
 - [Tweaks for Youtube](https://addons.mozilla.org/en-US/firefox/addon/tweaks-for-youtube/) - Customise youtube behaviour
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - Block ads to protect yourself, speed up browsing, and remove distractions
 
+### Household
+
+- [Actual](https://www.actualbudget.com/download) - Budgeting app with money tracking not linked to your bank account. Can set up reoccuring payment tracking
+- [Grocy](https://grocy.info/) - Home inventory management software
+
 ### Music
+
+DAWs
+
+- [Reaper](https://www.reaper.fm/download.php) - Very powerful DAW that has endless trial version. Please pay for if possible.
 
 #### DJ Software
 
@@ -86,6 +95,8 @@
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic/releases) - Volume mixer but for mac (can't be used with eqMac to my knowledge)
 - [eqMac](https://eqmac.app/) - MAC ONLY: Systemwide EQ for different speakers and headphones. Find EQ curves at [AutoEq](https://www.autoeq.app/)
 - [FarPlay](https://farplay.io/) - Video call software with less audio latency
+- [MAKID](https://www.makidapp.com/) - Project manager for Ableton Live. Still early in development and a bit buggy.
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) - Powerful metadata and renaming software for audio files
 
 
 ### Text Editors

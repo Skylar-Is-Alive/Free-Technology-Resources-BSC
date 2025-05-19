@@ -24,13 +24,15 @@
 
 ### Music
 
-DAWs
+####DAWs
 
+- [Audacity](https://www.audacityteam.org/download/) - Good for recording, seems to be getting updated into a more full fledged DAW
 - [Reaper](https://www.reaper.fm/download.php) - Very powerful DAW that has endless trial version. Please pay for if possible.
 
 #### DJ Software
 
-- [Mixxx](https://mixxx.org/download/) - Free software to get started with the concept of DJing
+- [Mixxx](https://mixxx.org/download/) - Free, customisable software to get started with the concept of DJing
+- [Rekordbox](https://rekordbox.com/en/download/) - PERFORMANCE MODE IS PAID: Prepare and export tracks onto usb drives for djing without a laptop
 
 #### Notation
 
@@ -95,8 +97,9 @@ DAWs
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic/releases) - Volume mixer but for mac (can't be used with eqMac to my knowledge)
 - [eqMac](https://eqmac.app/) - MAC ONLY: Systemwide EQ for different speakers and headphones. Find EQ curves at [AutoEq](https://www.autoeq.app/)
 - [FarPlay](https://farplay.io/) - Video call software with less audio latency
-- [MAKID](https://www.makidapp.com/) - Project manager for Ableton Live. Still early in development and a bit buggy.
+- [MAKID](https://www.makidapp.com/) - Project manager for Ableton Live. Still early in development and a bit buggy
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - Powerful metadata and renaming software for audio files
+- [Vizzdom Analyser](https://www.krisdigital.com/en/blog/2018/08/23/vizzdom-mac-system-audio-spectrum-level-analyzer/) - MAC ONLY: Janky systemwide EQ without as many bugs as eqMac. Find EQ curves at [AutoEq](https://www.autoeq.app/)
 
 
 ### Text Editors
@@ -147,17 +150,30 @@ DAWs
 - [Libby](https://libbyapp.com/) - THERE IS A HOLD TIME: Check out books and audiobooks
 - [Freegal Music](https://www.freegalmusic.com/) - Legally download a couple tracks a week
 
-#### Free Resources
+#### Free Sources
 
-- [9Anime](https://9animetv.to/home) - Stream anime
+##### Assorted
+
+- [freemediaheckyeah](https://fmhy.net/) - Site with links to other resources. Don't be stupid, read what they have to say about safety
+- [Internet Archive](https://archive.org/) - Mostly old media, with some hidden gems
+
+##### Books
+
 - [Internet Archive](https://archive.org/) - Various archived media which is mostly old
-- [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - CHECK LIST OF LINKS FOR THE ACTUAL SITE: File sharing website for books, journals etc.
-- [Lucida](https://lucida.su/) - Download albums and playlists from various streaming platforms in high-quality with metadata included
-- [MovieOrca](https://www2.movieorca.com/) - UBLOCK ORIGIN HIGHLY RECOMMENDED - Stream movies and TV shows
+- [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - CHECK LIST OF LINKS FOR THE ACTUAL SITE: File sharing website for books, journals etc
 - [Open Library](https://openlibrary.org/) - Digital library connected to the Internet Archive
+- [Z Library](https://z-library.sk/) - Similar to Library Genesis but with a different selection and more modern interface
+
+##### Music
+
+- [Lucida](https://lucida.su/) ([Alternate Link](https://lucida.to/)) - Download albums and playlists from various streaming platforms in high-quality with metadata included
 - [SquidWTF](https://squid.wtf/) - Download albums from various streaming platforms in high-quality with metadata included
 - [YTiz](https://ytiz.xyz/) - Download music from Youtube, Soundcloud, Bandcamp, Twitter, and Tiktok URLs
-- [Z Library](https://z-library.sk/) - Similar to Library Genesis but with a different selection and more modern interface
+
+##### Video
+
+- [9Anime](https://9animetv.to/home) - Stream anime
+- [MovieOrca](https://www2.movieorca.com/) - UBLOCK ORIGIN HIGHLY RECOMMENDED - Stream movies and TV shows
 
 ### Utility
 

@@ -24,7 +24,7 @@
 
 ### Music
 
-####DAWs
+#### DAWs
 
 - [Audacity](https://www.audacityteam.org/download/) - Good for recording, seems to be getting updated into a more full fledged DAW
 - [Reaper](https://www.reaper.fm/download.php) - Very powerful DAW that has endless trial version. Please pay for if possible.

@@ -178,8 +178,8 @@
 ##### Video
 
 - [9Anime](https://9animetv.to/home) - Stream anime
-- [MovieOrca](https://www2.movieorca.com/) - UBLOCK ORIGIN HIGHLY RECOMMENDED - Stream movies and TV shows
 - [FullRaces](https://fullraces.com/) - Motorsports Replays
+- [MovieOrca](https://www2.movieorca.com/) - UBLOCK ORIGIN HIGHLY RECOMMENDED - Stream movies and TV shows
 
 ### Utility
 

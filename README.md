@@ -142,6 +142,11 @@
 
 ## Websites
 
+### Cooking
+
+- [smitten kitchen](https://smittenkitchen.com/) - More Western focused food with a random button
+- [Taste Atlas](https://www.tasteatlas.com/) - Gives a broad overview of food from many countries with limited selection and dubious accuracy for some
+
 ### Media Resources
 
 #### Digital Library Card Resources
@@ -165,10 +170,6 @@
 - [Open Library](https://openlibrary.org/) - Digital library connected to the Internet Archive
 - [Z Library](https://z-library.sk/) - Similar to Library Genesis but with a different selection and more modern interface
 
-##### Cooking
-
-- [Taste Atlas](https://www.tasteatlas.com/) - Gives a broad overview of food from many countries with limited selection and dubious accuracy for some
-
 ##### Music
 
 - [Lucida](https://lucida.su/) ([Alternate Link](https://lucida.to/)) - Download albums and playlists from various streaming platforms in high-quality with metadata included
@@ -180,6 +181,10 @@
 - [9Anime](https://9animetv.to/home) - Stream anime
 - [FullRaces](https://fullraces.com/) - Motorsports Replays
 - [MovieOrca](https://www2.movieorca.com/) - UBLOCK ORIGIN HIGHLY RECOMMENDED - Stream movies and TV shows
+
+### Show Calendars and Aggregators
+
+- [19hz.info](https://19hz.info/) - Electronic music calendars for cities with both big and small shows
 
 ### Utility
 

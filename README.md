@@ -155,7 +155,7 @@
 - [Libby](https://libbyapp.com/) - THERE IS A HOLD TIME: Check out books and audiobooks
 - [Freegal Music](https://www.freegalmusic.com/) - Legally download a couple tracks a week
 
-#### Free Sources
+#### Free Media Sources
 
 ##### Assorted
 
@@ -170,9 +170,11 @@
 - [Open Library](https://openlibrary.org/) - Digital library connected to the Internet Archive
 - [Z Library](https://z-library.sk/) - Similar to Library Genesis but with a different selection and more modern interface
 
-##### Music
+##### Audio
 
+- [A Soft Murmur](https://asoftmurmur.com/) - Different calming sounds that can be mixed and adjusted. The thunder one is quite good in my opinion
 - [Lucida](https://lucida.su/) ([Alternate Link](https://lucida.to/)) - Download albums and playlists from various streaming platforms in high-quality with metadata included
+- [Streetlights](https://www.streetlightsbible.com/nt-digital-downloads) - Audio Bible with specially produced hip hop in the background
 - [SquidWTF](https://squid.wtf/) - Download albums from various streaming platforms in high-quality with metadata included
 - [YTiz](https://ytiz.xyz/) - Download music from Youtube, Soundcloud, Bandcamp, Twitter, and Tiktok URLs
 
